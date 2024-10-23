@@ -1,1 +1,2 @@
 # PC3_CARDENAS
+En este trabajo primeor realizamos una limpieza y formateo de nuestra data frame, eliminamos columnas y filas, ademas de renombrar algunas columnas, sumado a ello integramos las datas, hicimos un merge, ademas de un análisis de los datos de los fallecidos dividimos los datos en columnas y hallamos los reportes mensuales. A partir de ello hicimos la siguiente pagina: https://valcc01.github.io/PC3_CARDENAS/
